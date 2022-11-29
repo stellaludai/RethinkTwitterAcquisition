@@ -1,0 +1,211 @@
+<SEC-DOCUMENT>0001494730-18-000001.txt : 20180321
+<SEC-HEADER>0001494730-18-000001.hdr.sgml : 20180321
+<ACCEPTANCE-DATETIME>20180321201517
+ACCESSION NUMBER:		0001494730-18-000001
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20180321
+FILED AS OF DATE:		20180321
+DATE AS OF CHANGE:		20180321
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		18705532
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tesla, Inc.
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TESLA MOTORS INC
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2018-03-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001318605</issuerCik>
+        <issuerName>Tesla, Inc.</issuerName>
+        <issuerTradingSymbol>TSLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TESLA, INC</rptOwnerStreet1>
+            <rptOwnerStreet2>3500 DEER CREEK ROAD</rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94304</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Non-Qualified Stock Option (right to buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>350.02</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2018-03-21</value>
+                <footnoteId id="F1"/>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>20264042</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2028-01-20</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>20264042</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>20264042</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On January 21, 2018, the reporting person was granted a performance-based stock option award to purchase 20,264,042 shares of common stock (the &quot;Award&quot;) by Tesla, Inc.'s board of directors, subject to stockholder approval of the Award. Tesla's stockholders approved the Award on March 21, 2018.</footnote>
+        <footnote id="F2">The Award will vest in twelve equal installments upon the achievement of performance milestones that are based on operational and market capitalization metrics.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>By: Aaron Beckman, Power of Attorney For: Elon R Musk</signatureName>
+        <signatureDate>2018-03-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24
+<SEQUENCE>2
+<FILENAME>poaofficer.txt
+<DESCRIPTION>EDGAR SUPPORTING DOCUMENT
+<TEXT>
+LIMITED POWER OF ATTORNEY - SECURITIES LAW COMPLIANCE
+The undersigned, as an Officer of Tesla Motors, Inc. (the
+"Company"), hereby constitutes and appoints Todd Maron,
+Jonathan Chang, Yun Huh, Aaron Beckman and each of them, the
+undersigned's true and lawful attorney-in-fact and agent to
+complete and execute such Forms 144, Forms 3, 4 and 5 and other
+forms as such attorney shall in his discretion determine to be
+required or advisable pursuant to Rule 144 promulgated under
+the Securities Act of 1933 (as amended), Section 16 of the
+Securities Exchange Act of 1934 (as amended) and the rules and
+regulations promulgated thereunder, or any successor laws and
+regulations, as a consequence of the undersigned's ownership,
+acquisition or disposition of securities of the Company, and to
+do all acts necessary in order to file such forms with the
+Securities and Exchange Commission, any securities exchange or
+national association, the Company and such other person or
+agency as the attorney shall deem appropriate. The undersigned
+hereby ratifies and confirms all that said attorneys-in-fact and
+agents shall do or cause to be done by virtue hereof.
+This Limited Power of Attorney shall remain in full force and
+effect until the undersigned is no longer required to file Forms
+3, 4 and 5 with respect to the undersigned's holdings of and
+transactions in securities issued by the Company unless earlier
+revoked by the undersigned in a writing delivered to the
+foregoing attorneys-in-fact.
+This Limited Power of Attorney is executed at 3500 Deer Creek
+Road, Palo Alto CA 94304, as of the date set forth below.
+/s/Elon Musk
+January 10, 2018
+WITNESS
+Emma Gallagher
+January 10, 2018
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,1362 @@
+security_type,issuerName,securityTitle,transactionDate,transactionCode,transactionShares,transactionPricePerShare,transactionAcquiredDisposedCode,sharesOwnedFollowingTransaction,directOrIndirectOwnership,natureOfOwnership
+nonDerivative,SOLARCITY CORP,Common Stock,2015-12-21,G,35000,0,D,21275943,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1893,872.02,D,172606358,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,2,873.03,D,172606356,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,34259,875.19,D,172572097,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,201269,876.42,D,172370828,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,29006,877.49,D,172341822,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,73145,878.29,D,172268677,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,37000,879.65,D,172231677,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,83970,880.23,D,172147707,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,9910,881.41,D,172137797,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,17661,882.25,D,172120136,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,49286,883.84,D,172070850,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,80095,885.03,D,171990755,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,89645,885.92,D,171901110,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,208342,886.80,D,171692768,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,150138,887.84,D,171542630,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,136118,888.88,D,171406512,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,106258,889.97,D,171300254,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,105802,890.90,D,171194452,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,99221,891.88,D,171095231,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,76450,892.97,D,171018781,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,103930,893.97,D,170914851,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,66241,894.98,D,170848610,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,79331,895.88,D,170769279,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,58717,896.89,D,170710562,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,35296,898.16,D,170675266,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,57713,899.02,D,170617553,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,59995,900.01,D,170557558,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,34219,901.05,D,170523339,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,106840,902.01,D,170416499,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,66734,902.99,D,170349765,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,5903,295.028,A,33638324,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,4845,296.311,A,33643169,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,3508,297.151,A,33646677,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,4514,298.01,A,33651191,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,739,299.252,A,33651930,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,4358,300.012,A,33656288,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,3000,301.376,A,33659288,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-05-07,P,6133,302.133,A,33665421,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-08-04,J,44,0,A,20681572,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-11-09,A,56915,351.4,A,33824680,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2013-10-21,P,214869,46.54,A,21028830,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2015-08-19,P,82645.0,242.0,A,28371342,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-08-24,P,123510,40.4855,A,20805082,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2013-11-07,J,1256.0,0.0,A,28288622,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,10491720,"
+                    <footnoteId id=""F1""/>
+                ",A,10609976,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,2897342,"
+                    <footnoteId id=""F1""/>
+                ",A,13507318,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,478871,"
+                    <footnoteId id=""F1""/>
+                ",A,13986189,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,2279826,"
+                    <footnoteId id=""F1""/>
+                ",A,16266015,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,1033592,"
+                    <footnoteId id=""F1""/>
+                ",A,17299607,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,C,1550384,"
+                    <footnoteId id=""F2""/>
+                ",A,18849991,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-18,P,1875000,8.00,A,20724991,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2016-01-04,J,51,0,A,21275994,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,8212,1116.417,D,168336889,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,2298,1117.552,D,168334591,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,6437,1120.641,D,168328154,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,1500,1121.959,D,168326654,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,35519,1123.00,D,168291135,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,19495,1124.314,D,168271640,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24523,1125.088,D,168247117,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,29721,1126.405,D,168217396,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,27010,1127.154,D,168190386,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,23825,1128.056,D,168166561,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5796,1129.404,D,168160765,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,100,1129.88,D,168160665,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,8121,1130.384,D,168152544,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,13876,1131.448,D,168138668,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,2513,1132.877,D,168136155,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,12237,1135.445,D,168123918,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16600,1136.375,D,168107318,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16175,1138.125,D,168091143,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,13824,1140.518,D,168077319,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24891,1141.021,D,168052428,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,2342,1142.162,D,168050086,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,1199,1143.46,D,168048887,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,7120,1145.333,D,168041767,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,50689,1147.541,D,167991078,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,14670,1148.386,D,167976408,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,54455,1149.45,D,167921953,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,44756,1150.502,D,167877197,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,21758,1151.469,D,167855439,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,32830,1152.534,D,167822609,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,6195,1153.336,D,167816414,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-05-09,J,103,0.00,A,21029036,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-05-09,J,15110,0.00,A,21044146,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-11-21,A,2403024,0.0,A,33503668,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,7837,1012.328,D,170485148,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,12663,1013.269,D,170472485,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,6121,1014.423,D,170466364,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10902,1015.452,D,170455462,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,1500,1016.366,D,170453962,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,15135,1017.597,D,170438827,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16695,1018.323,D,170422132,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24452,1019.565,D,170397680,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,36637,1020.481,D,170361043,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,20992,1021.47,D,170340051,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,29699,1022.529,D,170310352,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,86719,1023.51,D,170223633,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,19706,1024.554,D,170203927,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,15730,1025.396,D,170188197,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,7413,1026.329,D,170180784,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,11539,1027.483,D,170169245,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10539,1028.558,D,170158706,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10008,1029.658,D,170148698,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,36872,1030.548,D,170111826,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,23662,1031.658,D,170088164,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,23135,1032.496,D,170065029,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,12240,1033.50,D,170052789,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,8141,1034.283,D,170044648,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,17056,1035.671,D,170027592,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,14259,1036.50,D,170013333,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,17511,1037.661,D,169995822,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,19622,1038.469,D,169976200,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,21165,1039.447,D,169955035,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,31951,1040.337,D,169923084,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,12456,1041.636,D,169910628,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,M,2105171,6.24,A,3260035,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,6400,958.092,D,3253635,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,4324,960.113,D,3249311,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,3200,961.31,D,3246111,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,4400,963.391,D,3241711,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,5700,965.619,D,3236011,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,1300,966.80,D,3234711,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,3500,968.198,D,3231211,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,3542,969.891,D,3227669,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,7499,970.671,D,3220170,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,8599,972.078,D,3211571,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,6735,973.175,D,3204836,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,15183,974.219,D,3189653,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,2568,975.028,D,3187085,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,17239,976.45,D,3169846,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,22462,977.497,D,3147384,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,25666,978.379,D,3121718,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,11705,979.38,D,3110013,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,22373,980.71,D,3087640,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,20108,981.76,D,3067532,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,34838,982.543,D,3032694,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,37527,983.57,D,2995167,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,15808,984.513,D,2979359,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,8000,985.762,D,2971359,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,8379,986.50,D,2962980,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,1712,987.634,D,2961268,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,4522,988.823,D,2956746,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,22289,989.611,D,2934457,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,6926,990.643,D,2927531,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,8060,991.647,D,2919471,D,
+nonDerivative,SOLARCITY CORP,Common Stock,2015-11-16,P,198615,26.4487,A,21310892,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-12,P,37023,342.775,A,33702444,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-12,P,14509,343.855,A,33716953,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-12,P,3468,344.829,A,33720421,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-13,P,2297,342.782,A,33722718,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-13,P,2431,343.791,A,33725149,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-13,P,2114,344.957,A,33727263,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-13,P,6032,346.637,A,33733295,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-06-13,P,4626,347.001,A,33737921,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2013-11-14,J,103,0,A,21028933,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,109363,904.03,D,170240402,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,84051,905.00,D,170156351,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,86670,905.96,D,170069681,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,65040,907.05,D,170004641,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,30784,908.05,D,169973857,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,53610,909.13,D,169920247,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,38402,909.98,D,169881845,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,15293,910.80,D,169866552,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,18538,912.10,D,169848014,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,23478,913.10,D,169824536,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,3176,913.84,D,169821360,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,2448,915.44,D,169818912,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,18607,916.46,D,169800305,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,30320,917.21,D,169769985,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,14635,918.19,D,169755350,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,23753,919.59,D,169731597,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,27866,920.33,D,169703731,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,31556,921.42,D,169672175,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,29411,922.53,D,169642764,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,24236,923.35,D,169618528,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,16916,924.46,D,169601612,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,26472,925.37,D,169575140,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,22054,926.31,D,169553086,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,8122,927.16,D,169544964,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,22456,928.54,D,169522508,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6413,929.56,D,169516095,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,11604,930.57,D,169504491,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,15220,931.68,D,169489271,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,9295,932.65,D,169479976,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,20036,933.63,D,169459940,I,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-05-25,S,2782670.0,213.22,D,31100644,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,80319,1073.04,D,168878098,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,44284,1074.367,D,168833814,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,30418,1075.027,D,168803396,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,11022,1076.286,D,168792374,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,49381,1077.188,D,168742993,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,25498,1077.984,D,168717495,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10304,1079.059,D,168707191,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5300,1080.00,D,168701891,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5541,1081.276,D,168696350,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,2369,1082.045,D,168693981,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,710,1083.253,D,168693271,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,6148,1084.666,D,168687123,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,11389,1087.847,D,168675734,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,2500,1091.473,D,168673234,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,58428,1092.962,D,168614806,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5300,1096.49,D,168609506,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16191,1100.532,D,168593315,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,6443,1101.412,D,168586872,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,18122,1102.167,D,168568750,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,1738,1103.45,D,168567012,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16110,1104.732,D,168550902,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,21358,1105.914,D,168529544,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24240,1106.824,D,168505304,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,19551,1108.091,D,168485753,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,31461,1110.234,D,168454292,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,21188,1111.072,D,168433104,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24150,1112.126,D,168408954,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,34251,1113.294,D,168374703,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,13323,1114.108,D,168361380,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16279,1115.034,D,168345101,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-10-29,P,9439,334.24,A,33747360,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-10-29,P,19105,335.287,A,33766465,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2018-10-29,P,1300,335.932,A,33767765,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-26,P,48664,11.0621,A,20773655,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2012-12-27,P,40306,11.1971,A,20813961,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2012-10-03,P,35398,28.25,A,27203237,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,39463,1154.813,D,167776951,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,30577,1156.691,D,167746374,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,33040,1157.514,D,167713334,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,48412,1158.611,D,167664922,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16137,1159.593,D,167648785,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,37569,1160.503,D,167611216,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10,1161.47,D,167611206,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,49952,1163.62,D,167561254,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,34448,1164.817,D,167526806,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5593,1165.465,D,167521213,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10707,1167.268,D,167510506,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,31446,1168.06,D,167479060,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10843,1168.873,D,167468217,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,5276,1169.687,D,167462941,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,8665,1171.265,D,167454276,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,953,1172.889,D,167453323,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,48385,1173.223,D,167404938,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,M,2107672,6.24,A,2107672,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,1400,980.457,D,2106272,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,4678,981.356,D,2101594,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,9478,982.196,D,2092116,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,6600,983.249,D,2085516,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,27238,984.59,D,2058278,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,59420,985.488,D,1998858,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,61766,986.437,D,1937092,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,39835,987.43,D,1897257,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,51838,988.607,D,1845419,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,98123,989.514,D,1747296,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,83246,990.342,D,1664050,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,37076,991.521,D,1626974,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,46321,992.463,D,1580653,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,17112,993.431,D,1563541,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,12207,994.492,D,1551334,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,10560,995.502,D,1540774,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,19697,996.666,D,1521077,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,12851,997.653,D,1508226,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,26711,998.711,D,1481515,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,23669,999.674,D,1457846,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,16122,1000.924,D,1441724,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,7700,1002.314,D,1434024,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,21155,1003.256,D,1412869,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,13300,1004.527,D,1399569,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,9953,1005.279,D,1389616,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,13702,1006.389,D,1375914,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,23577,1007.304,D,1352337,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,13727,1008.444,D,1338610,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,16834,1009.224,D,1321776,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2017-03-17,P,95420,262.0,A,33599088,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2020-02-14,P,13037,767.0,A,34098597,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,4600,888.24,D,168534252,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,14203,889.66,D,168520049,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,13724,890.80,D,168506325,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,16264,891.92,D,168490061,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,13843,892.75,D,168476218,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,7378,894.02,D,168468840,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,20087,895.20,D,168448753,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,25951,895.97,D,168422802,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,28038,897.21,D,168394764,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,29765,898.16,D,168364999,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,16532,899.30,D,168348467,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,39978,900.28,D,168308489,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,59072,901.16,D,168249417,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,22110,902.19,D,168227307,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,25134,903.16,D,168202173,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,3303,904.23,D,168198870,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,934,905.28,D,168197936,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,4685,906.76,D,168193251,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,19414,957.768,D,1493649,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,28441,958.596,D,1465208,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,33321,959.564,D,1431887,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,20024,960.69,D,1411863,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,22875,961.774,D,1388988,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,11316,962.832,D,1377672,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,13763,964.238,D,1363909,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,7808,965.151,D,1356101,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,3100,966.302,D,1353001,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,5904,967.448,D,1347097,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,6201,969.044,D,1340896,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,400,969.91,D,1340496,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,9373,971.741,D,1331123,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,3979,972.718,D,1327144,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,3015,973.521,D,1324129,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,16276,975.19,D,1307853,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,6450,976.443,D,1301403,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,4491,977.358,D,1296912,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,8751,978.597,D,1288161,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,9400,979.719,D,1278761,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,4957,980.797,D,1273804,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,5041,982.298,D,1268763,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,9537,985.467,D,1259226,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,8927,986.458,D,1250299,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,2170,987.962,D,1248129,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,6900,988.759,D,1241229,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,4800,989.601,D,1236429,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,7740,991.049,D,1228689,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,10840,994.498,D,1217849,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,400,1000.00,D,167404538,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,796,1001.263,D,167403742,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1104,1002.552,D,167402638,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1500,1003.539,D,167401138,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1112,1004.67,D,167400026,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1302,1005.403,D,167398724,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,300,1006.177,D,167398424,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,366,1007.087,D,167398058,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1056,1008.572,D,167397002,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,473,1009.662,D,167396529,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,5909,1010.103,D,167390620,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1300,1011.408,D,167389320,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,703,1012.283,D,167388617,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,800,1013.289,D,167387817,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1000,1014.52,D,167386817,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1712,1015.426,D,167385105,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1110,1016.435,D,167383995,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,900,1017.404,D,167383095,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1271,1018.558,D,167381824,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1458,1019.57,D,167380366,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2301,1020.426,D,167378065,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1400,1021.658,D,167376665,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,3011,1022.546,D,167373654,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2533,1023.511,D,167371121,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,6540,1024.62,D,167364581,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,6860,1025.426,D,167357721,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2620,1026.508,D,167355101,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2749,1027.604,D,167352352,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2449,1028.577,D,167349903,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,3066,1029.434,D,167346837,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,60567,867.914,D,159602684,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,164234,868.861,D,159438450,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,127602,869.749,D,159310848,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,116658,870.746,D,159194190,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,107868,871.837,D,159086322,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,91107,872.867,D,158995215,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,63161,873.812,D,158932054,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,35720,874.716,D,158896334,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,28724,875.818,D,158867610,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,32705,876.69,D,158834905,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,20692,877.858,D,158814213,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,21896,878.857,D,158792317,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,19407,880.049,D,158772910,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,37139,880.837,D,158735771,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,55272,881.824,D,158680499,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,44748,882.843,D,158635751,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,40594,883.876,D,158595157,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,19565,884.762,D,158575592,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,23154,886.06,D,158552438,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,34676,886.948,D,158517762,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,46539,887.75,D,158471223,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,10781,888.892,D,158460442,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,21989,890.053,D,158438453,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,36257,890.776,D,158402196,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,53180,891.779,D,158349016,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,35542,892.859,D,158313474,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,47926,893.878,D,158265548,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,72084,894.836,D,158193464,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,44963,895.79,D,158148501,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,9549,896.56,D,158138952,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,32041,1090.195,D,1466808,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,24141,1091.196,D,1442667,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,19535,1092.247,D,1423132,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,34935,1093.217,D,1388197,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,22262,1094.205,D,1365935,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,13012,1095.296,D,1352923,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,11951,1096.316,D,1340972,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,12413,1097.253,D,1328559,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,18546,1098.636,D,1310013,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,19945,1099.60,D,1290068,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,3185,1100.287,D,1286883,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,15722,1101.916,D,1271161,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,11251,1103.388,D,1259910,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,17186,1104.22,D,1242724,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6179,1105.475,D,1236545,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6508,1106.643,D,1230037,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6742,1108.047,D,1223295,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6783,1108.84,D,1216512,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,9359,1110.034,D,1207153,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,7600,1110.949,D,1199553,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,203,1112.023,D,1199350,D,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-08-01,J,51,0,A,21044299,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-09-12,J,51,0,A,21044350,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2017-04-21,C,33333,300.0,A,33632421,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,14442,934.79,D,169445498,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,2090,936.20,D,169443408,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,3800,938.46,D,169439608,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1800,939.17,D,169437808,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,25949,940.86,D,169411859,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,12613,941.87,D,169399246,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,7534,942.79,D,169391712,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,8388,943.89,D,169383324,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,5573,944.90,D,169377751,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,21274,946.00,D,169356477,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,8476,946.97,D,169348001,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,9681,948.08,D,169338320,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,13330,949.10,D,169324990,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,21085,950.16,D,169303905,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6180,951.00,D,169297725,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1,952.67,D,169297724,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6336,955.82,D,169291388,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,8396,957.24,D,169282992,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,17430,957.81,D,169265562,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1949,959.01,D,169263613,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,604,960.71,D,169263009,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6075,962.40,D,169256934,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,10711,963.44,D,169246223,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6462,964.80,D,169239761,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,12813,966.12,D,169226948,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,28163,967.25,D,169198785,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,34967,968.33,D,169163818,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,427,969.00,D,169163391,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,18803,971.86,D,169144588,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,809,972.64,D,169143779,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-11-25,G,363000,0,D,20681248,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,250083,884.59,D,163754967,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,118307,885.56,D,163636660,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,77933,886.64,D,163558727,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,147637,887.68,D,163411090,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,186262,888.62,D,163224828,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,143725,889.50,D,163081103,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,12375,890.51,D,163068728,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,12007,891.65,D,163056721,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,11093,892.73,D,163045628,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,15276,893.65,D,163030352,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,7064,894.58,D,163023288,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,37662,896.01,D,162985626,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,1900,897.70,D,162983726,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,210,898.50,D,162983516,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,10297,901.19,D,162973219,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,9968,902.85,D,162963251,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2912,1030.494,D,167343925,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4105,1031.578,D,167339820,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4100,1032.567,D,167335720,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4767,1033.492,D,167330953,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4400,1034.564,D,167326553,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,5780,1035.474,D,167320773,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,6981,1036.468,D,167313792,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,3154,1037.402,D,167310638,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,1200,1038.26,D,167309438,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2072,1039.313,D,167307366,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,900,1040.621,D,167306466,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2603,1041.435,D,167303863,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,3081,1042.523,D,167300782,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,3510,1043.64,D,167297272,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4000,1044.513,D,167293272,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2600,1045.401,D,167290672,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,5158,1046.637,D,167285514,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,10456,1047.577,D,167275058,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,14606,1048.517,D,167260452,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,13635,1049.417,D,167246817,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,7338,1050.473,D,167239479,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,9322,1051.52,D,167230157,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,11964,1052.515,D,167218193,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,17025,1053.49,D,167201168,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,12471,1054.372,D,167188697,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,7695,1055.522,D,167181002,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,5368,1056.46,D,167175634,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,9778,1057.494,D,167165856,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,11124,1058.471,D,167154732,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,7788,1059.429,D,167146944,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,6749,897.878,D,158132203,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,10876,898.838,D,158121327,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,21310,899.859,D,158100017,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,19745,900.615,D,158080272,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-08,S,900,901.40,D,158079372,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,M,1554176,6.24,A,1554176,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,2400,1079.593,D,1551776,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,7000,1080.779,D,1544776,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,9211,1081.857,D,1535565,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,21083,1083.043,D,1514482,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,49363,1083.963,D,1465119,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,52594,1084.94,D,1412525,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,48622,1085.947,D,1363903,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,66402,1086.963,D,1297501,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,74448,1087.981,D,1223053,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,57541,1088.901,D,1165512,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,68989,1089.957,D,1096523,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,52050,1091.01,D,1044473,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,64640,1092.058,D,979833,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,50243,1093.018,D,929590,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,58021,1093.951,D,871569,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,35064,1094.999,D,836505,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,26698,1095.997,D,809807,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,22324,1096.966,D,787483,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,37734,1098.038,D,749749,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,19992,1098.908,D,729757,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,27899,1099.909,D,701858,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,17100,1101.079,D,684758,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,7451,1101.927,D,677307,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,8361,1103.087,D,668946,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,6400,1104.235,D,662546,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,3475,1105.309,D,659071,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,6300,1106.651,D,652771,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,6039,1107.516,D,646732,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,15991,1108.59,D,630741,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,28526,854.43,D,166587741,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,33099,855.40,D,166554642,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,30108,856.55,D,166524534,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,22394,857.59,D,166502140,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,12071,858.32,D,166490069,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,21545,859.32,D,166468524,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,26591,860.52,D,166441933,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,15288,861.54,D,166426645,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,71936,862.76,D,166354709,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,89721,863.71,D,166264988,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,78508,864.65,D,166186480,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,106551,865.53,D,166079929,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,129897,866.74,D,165950032,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,57037,867.56,D,165892995,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,134815,868.69,D,165758180,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,81706,869.61,D,165676474,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,86948,870.66,D,165589526,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,138307,871.66,D,165451219,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,67608,872.66,D,165383611,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,94676,873.46,D,165288935,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,122379,874.68,D,165166556,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,113132,875.53,D,165053424,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,89876,876.77,D,164963548,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,248566,877.57,D,164714982,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,164935,878.70,D,164550047,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,177870,879.65,D,164372177,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,151545,880.55,D,164220632,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,39740,881.78,D,164180892,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,58267,882.64,D,164122625,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,117575,883.73,D,164005050,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,M,2165241,6.24,A,2165241,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,9563,1003.162,D,2155678,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,18534,1004.138,D,2137144,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10477,1005.129,D,2126667,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,8991,1005.947,D,2117676,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,9329,1007.227,D,2108347,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,17944,1008.442,D,2090403,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,20199,1009.37,D,2070204,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,21064,1010.292,D,2049140,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,4996,1011.164,D,2044144,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10695,1012.543,D,2033449,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,13076,1013.58,D,2020373,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,22526,1014.618,D,1997847,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,21514,1015.602,D,1976333,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,28858,1016.623,D,1947475,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,23042,1017.47,D,1924433,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,14735,1018.591,D,1909698,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,4549,1019.528,D,1905149,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,8158,1021.47,D,1896991,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,15415,1022.405,D,1881576,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10373,1023.28,D,1871203,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,2488,1024.392,D,1868715,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,13701,1026.645,D,1855014,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,4440,1027.836,D,1850574,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,7748,1028.953,D,1842826,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,26592,1030.11,D,1816234,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,53915,1031.063,D,1762319,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,67297,1032.073,D,1695022,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,55468,1032.99,D,1639554,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,17765,1033.967,D,1621789,D,
+nonDerivative,TESLA MOTORS INC,Common Stock,2010-07-02,C,20655342,"
+                    <footnoteId id=""F1""/>
+                ",A,23322008,I,By trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2010-07-02,C,3700575,"
+                    <footnoteId id=""F2""/>
+                ",A,27022583,I,By trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2010-07-02,X,113908,"
+                    <footnoteId id=""F3""/>
+                ",A,27136491,I,By trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2010-07-02,F,21728,17.00,D,27114763,I,By trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2010-07-02,S,1415167,17.00,D,25699596,I,By trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,M,2152681,6.24,A,2152681,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,700,1063.963,D,2151981,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,700,1065.726,D,2151281,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,2600,1067.244,D,2148681,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5200,1068.243,D,2143481,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5500,1069.471,D,2137981,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7500,1070.48,D,2130481,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11281,1071.563,D,2119200,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,10233,1072.545,D,2108967,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11082,1073.479,D,2097885,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8400,1074.544,D,2089485,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8600,1075.657,D,2080885,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,3100,1076.80,D,2077785,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5700,1077.839,D,2072085,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7140,1078.749,D,2064945,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5542,1079.689,D,2059403,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6540,1080.841,D,2052863,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,10234,1081.647,D,2042629,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7629,1082.707,D,2035000,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11457,1083.836,D,2023543,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,12757,1084.90,D,2010786,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11347,1085.844,D,1999439,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6773,1086.86,D,1992666,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8930,1087.89,D,1983736,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11300,1088.959,D,1972436,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5709,1090.06,D,1966727,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4900,1091.03,D,1961827,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,13627,1092.148,D,1948200,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11500,1092.978,D,1936700,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6730,1094.239,D,1929970,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,500,1109.31,D,630241,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,2008,1110.95,D,628233,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,2600,1112.135,D,625633,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,3947,1115.081,D,621686,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,900,1116.15,D,620786,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-28,S,700,1117.92,D,620086,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7800,1095.296,D,1922170,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,12634,1096.52,D,1909536,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7100,1097.599,D,1902436,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6755,1098.605,D,1895681,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,2600,1099.47,D,1893081,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,2000,1100.726,D,1891081,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,1555,1101.738,D,1889526,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,1800,1102.562,D,1887726,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5300,1103.896,D,1882426,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4900,1105.189,D,1877526,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6200,1106.124,D,1871326,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8098,1107.355,D,1863228,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,14742,1108.552,D,1848486,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,15636,1109.432,D,1832850,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8285,1110.436,D,1824565,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7000,1111.958,D,1817565,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,21033,1112.925,D,1796532,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,12268,1113.865,D,1784264,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4927,1114.784,D,1779337,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,2106,1115.795,D,1777231,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4826,1116.94,D,1772405,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,15995,1118.124,D,1756410,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11378,1119.158,D,1745032,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6435,1120.21,D,1738597,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,22328,1121.428,D,1716269,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,16761,1122.45,D,1699508,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,17162,1123.398,D,1682346,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,28882,1124.519,D,1653464,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,17366,1125.551,D,1636098,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,14822,1126.547,D,1621276,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,20121,1127.508,D,1601155,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,17574,1128.461,D,1583581,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,13592,1129.491,D,1569989,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7311,1130.626,D,1562678,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8467,1131.672,D,1554211,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7365,1132.503,D,1546846,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5342,1133.459,D,1541504,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5500,1134.581,D,1536004,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,1123,1136.06,D,1534881,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4100,1138.668,D,1530781,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,3333,1139.636,D,1527448,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,9700,1141.776,D,1517748,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5174,1142.675,D,1512574,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,800,1143.575,D,1511774,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8634,1146.243,D,1503140,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,10936,1147.087,D,1492204,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,10377,1148.09,D,1481827,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,18217,1149.088,D,1463610,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7580,1150.165,D,1456030,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,22844,1151.465,D,1433186,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6128,1152.45,D,1427058,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7800,1153.737,D,1419258,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,9443,1154.693,D,1409815,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,6200,1155.925,D,1403615,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8641,1157.041,D,1394974,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,12700,1158.03,D,1382274,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,17500,1159.965,D,1364774,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,8500,1160.828,D,1356274,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5496,1161.944,D,1350778,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,5717,1162.888,D,1345061,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,M,2133441,6.24,A,2133441,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,2500,1058.659,D,2130941,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,7019,1060.098,D,2123922,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,2400,1062.19,D,2121522,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6754,1063.573,D,2114768,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,6900,1064.58,D,2107868,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,5955,1065.735,D,2101913,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,7883,1066.811,D,2094030,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,12793,1067.817,D,2081237,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,16555,1068.873,D,2064682,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,12843,1069.97,D,2051839,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,11124,1070.845,D,2040715,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,15489,1072.092,D,2025226,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,13961,1072.966,D,2011265,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,14781,1074.006,D,1996484,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,18126,1075.105,D,1978358,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,23922,1076.123,D,1954436,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,31748,1077.078,D,1922688,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,29985,1078.039,D,1892703,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,38553,1079.065,D,1854150,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,29652,1080.047,D,1824498,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,35975,1081.086,D,1788523,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,44050,1082.203,D,1744473,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,67991,1083.12,D,1676482,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,51891,1084.094,D,1624591,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,33050,1085.096,D,1591541,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,28389,1086.237,D,1563152,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,20560,1087.20,D,1542592,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,17849,1088.09,D,1524743,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-02,S,25894,1089.189,D,1498849,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,12978,1060.515,D,167133966,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,17321,1061.44,D,167116645,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,9600,1062.527,D,167107045,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,14256,1063.481,D,167092789,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,16195,1064.524,D,167076594,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,8943,1065.586,D,167067651,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,20544,1066.575,D,167047107,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,20828,1067.496,D,167026279,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,20195,1068.448,D,167006084,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,11329,1069.502,D,166994755,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,11085,1070.49,D,166983670,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,16764,1071.513,D,166966906,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,19745,1072.565,D,166947161,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,18414,1073.472,D,166928747,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,16977,1074.448,D,166911770,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,4079,1075.491,D,166907691,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,2354,1076.497,D,166905337,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-10,S,399,1077.355,D,166904938,I,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2012-03-20,J,36274,0,A,27167839,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,26730,857.541,D,162936521,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,48720,858.688,D,162887801,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,36197,859.471,D,162851604,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,141979,860.493,D,162709625,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,96657,861.585,D,162612968,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,105825,862.43,D,162507143,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,118820,863.587,D,162388323,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,112559,864.381,D,162275764,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,85403,865.557,D,162190361,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,61957,866.502,D,162128404,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,45073,867.564,D,162083331,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,17787,868.379,D,162065544,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,37058,869.391,D,162028486,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,64472,870.483,D,161964014,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,79800,871.602,D,161884214,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,96425,872.451,D,161787789,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,96530,873.495,D,161691259,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,91072,874.433,D,161600187,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,113483,875.469,D,161486704,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,123082,876.467,D,161363622,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,58161,877.45,D,161305461,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,109041,878.519,D,161196420,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,85557,879.489,D,161110863,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,87342,880.444,D,161023521,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,79205,881.487,D,160944316,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,102594,882.38,D,160841722,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,55775,883.326,D,160785947,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,30656,884.437,D,160755291,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,22159,885.335,D,160733132,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,47609,886.961,D,160685523,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2000,1056.318,D,168123419,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,200,1059.29,D,168123219,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1000,1060.433,D,168122219,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2800,1061.092,D,168119419,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,3600,1062.266,D,168115819,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1801,1063.713,D,168114018,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,4901,1064.345,D,168109117,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,73432,1065.249,D,168035685,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,17208,1066.457,D,168018477,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,19950,1067.51,D,167998527,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,32262,1068.48,D,167966265,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,25012,1069.401,D,167941253,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,69905,1070.352,D,167871348,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,38156,1071.531,D,167833192,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,62412,1072.529,D,167770780,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,55742,1073.382,D,167715038,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,30829,1074.459,D,167684209,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,26188,1075.464,D,167658021,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,18457,1076.488,D,167639564,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,15051,1077.454,D,167624513,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,9429,1078.395,D,167615084,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,15843,1079.529,D,167599241,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,15053,1080.451,D,167584188,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,13132,1081.534,D,167571056,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,10701,1082.419,D,167560355,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,5357,1083.306,D,167554998,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,4940,1084.549,D,167550058,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2349,1085.61,D,167547709,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,3961,1086.438,D,167543748,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,5967,1087.243,D,167537781,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,8202,1176.585,D,1889091,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,7049,1177.721,D,1882042,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,2300,1178.392,D,1879742,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,10685,1179.744,D,1869057,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,33171,1180.811,D,1835886,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,43643,1181.636,D,1792243,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,42615,1182.718,D,1749628,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,78191,1183.754,D,1671437,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,72241,1184.681,D,1599196,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,58512,1185.791,D,1540684,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,101589,1186.779,D,1439095,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,56428,1187.654,D,1382667,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,51192,1188.733,D,1331475,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,37430,1189.82,D,1294045,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,20199,1190.708,D,1273846,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,14531,1191.622,D,1259315,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,15745,1192.766,D,1243570,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,13474,1193.782,D,1230096,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,6415,1194.606,D,1223681,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,3200,1196.236,D,1220481,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1140,973.54,D,169142639,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,15889,976.45,D,169126750,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,6467,977.54,D,169120283,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,1817,978.08,D,169118466,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,681,979.67,D,169117785,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,25472,982.08,D,169092313,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,7182,983.07,D,169085131,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,15650,984.53,D,169069481,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,29962,985.57,D,169039519,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,16304,986.43,D,169023215,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,11051,987.54,D,169012164,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,5416,988.61,D,169006748,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,3631,989.56,D,169003117,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,11024,991.37,D,168992093,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,2800,992.67,D,168989293,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,9700,993.70,D,168979593,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,29616,995.35,D,168949977,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,10237,996.36,D,168939740,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,10789,998.14,D,168928951,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-26,S,700,999.13,D,168928251,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,54570,878.13,D,168873681,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,13457,879.11,D,168860224,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,69632,880.34,D,168790592,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,86324,881.41,D,168704268,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,83937,882.17,D,168620331,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,42320,883.07,D,168578011,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,9850,884.21,D,168568161,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,14707,885.38,D,168553454,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,9296,886.39,D,168544158,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-27,S,5306,887.30,D,168538852,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,25982,1035.029,D,1595807,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,30648,1036.064,D,1565159,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,24015,1037.119,D,1541144,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,16303,1038.159,D,1524841,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,27133,1039.19,D,1497708,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10692,1040.186,D,1487016,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,30714,1041.367,D,1456302,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,29580,1042.339,D,1426722,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,32426,1043.375,D,1394296,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,19288,1044.617,D,1375008,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10306,1045.597,D,1364702,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,11461,1047.296,D,1353241,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,11341,1047.926,D,1341900,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,25221,1050.413,D,1316679,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,20969,1052.012,D,1295710,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,10995,1053.013,D,1284715,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,8578,1054.207,D,1276137,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,2656,1055.118,D,1273481,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,17100,1056.624,D,1256381,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,1247,1057.74,D,1255134,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,9657,1058.987,D,1245477,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,11921,1060.36,D,1233556,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,1634,1061.05,D,1231922,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-09,S,772,1062.072,D,1231150,D,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-04-23,J,46,0,A,20681485,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,18630,838.571,D,158060742,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,8053,839.98,D,158052689,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,106535,840.891,D,157946154,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,224133,841.852,D,157722021,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,114286,842.686,D,157607735,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,114517,843.697,D,157493218,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,90934,844.816,D,157402284,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,124348,845.778,D,157277936,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,95946,846.668,D,157181990,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,187030,847.723,D,156994960,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,142968,848.734,D,156851992,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,455650,849.884,D,156396342,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,113618,850.619,D,156282724,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,114897,851.68,D,156167827,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,113022,852.689,D,156054805,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,136789,853.737,D,155918016,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,67457,854.706,D,155850559,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,66202,855.629,D,155784357,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,74948,856.773,D,155709409,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,49740,857.629,D,155659669,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,68785,858.836,D,155590884,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,100838,859.904,D,155490046,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,146968,860.85,D,155343078,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,97548,861.754,D,155245530,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,94328,862.819,D,155151202,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,29217,863.616,D,155121985,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,11779,864.849,D,155110206,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,6130,866.561,D,155104076,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,2283,869.21,D,155101793,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,42874,871.199,D,155058919,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,3918,1088.578,D,167533863,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2343,1089.305,D,167531520,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1914,1090.29,D,167529606,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1500,1091.671,D,167528106,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1400,1092.694,D,167526706,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2400,1093.484,D,167524306,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,2402,1094.494,D,167521904,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,1190,1095.486,D,167520714,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,3305,1096.674,D,167517409,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,71,1097.10,D,167517338,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,100,1100.04,D,167517238,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,30700,1102.01,D,167486538,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,256,1103.511,D,167486282,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-11,S,600,1104.01,D,167485682,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,10803,822.68,D,168182448,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,8653,824.43,D,168173795,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,10119,826.21,D,168163676,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,32220,827.08,D,168131456,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,29434,827.98,D,168102022,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,73917,829.19,D,168028105,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,46108,830.07,D,167981997,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,66317,831.18,D,167915680,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,70103,832.12,D,167845577,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,62736,833.06,D,167782841,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,39233,834.23,D,167743608,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,56907,835.28,D,167686701,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,65403,836.20,D,167621298,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,50381,837.32,D,167570917,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,71592,838.23,D,167499325,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,103160,839.36,D,167396165,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,84942,840.31,D,167311223,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,59031,841.22,D,167252192,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,43773,842.27,D,167208419,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,56575,843.27,D,167151844,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,56543,844.32,D,167095301,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,80962,845.38,D,167014339,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,67319,846.34,D,166947020,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,61329,847.32,D,166885691,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,29034,848.30,D,166856657,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,60495,849.38,D,166796162,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,64253,850.35,D,166731909,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,32643,851.12,D,166699266,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,46965,852.44,D,166652301,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-04-28,S,36034,853.32,D,166616267,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,M,2113761,6.24,A,3287342,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,13500,1004.194,D,3273842,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,6738,1007.297,D,3267104,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1400,1009.323,D,3265704,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1000,1010.68,D,3264704,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1000,1012.375,D,3263704,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1100,1014.032,D,3262604,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,600,1014.76,D,3262004,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1900,1016.341,D,3260104,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,3100,1017.327,D,3257004,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,900,1018.05,D,3256104,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,1000,1019.332,D,3255104,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,4547,1020.702,D,3250557,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,10863,1021.67,D,3239694,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,17489,1022.887,D,3222205,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,17493,1023.861,D,3204712,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,14587,1024.752,D,3190125,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,13755,1025.914,D,3176370,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,13610,1026.829,D,3162760,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,5705,1027.694,D,3157055,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,3340,1028.649,D,3153715,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,2003,1029.748,D,3151712,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,10086,1030.991,D,3141626,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,17034,1032.245,D,3124592,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,5365,1033.268,D,3119227,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,4206,1034.394,D,3115021,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,4500,1035.442,D,3110521,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,8600,1036.402,D,3101921,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,11280,1037.526,D,3090641,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,12987,1038.759,D,3077654,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,M,2154572,6.24,A,2154572,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,1100,1135.05,D,2153472,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,600,1138.00,D,2152872,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,2300,1139.487,D,2150572,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,6400,1141.05,D,2144172,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,400,1142.05,D,2143772,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,1300,1143.559,D,2142472,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,3300,1146.123,D,2139172,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,1900,1147.995,D,2137272,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,7500,1149.327,D,2129772,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,800,1152.05,D,2128972,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,2049,1153.38,D,2126923,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,1700,1155.276,D,2125223,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,600,1156.55,D,2124623,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,6100,1158.192,D,2118523,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,7254,1160.638,D,2111269,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,10316,1161.54,D,2100953,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,5100,1162.867,D,2095853,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,24718,1163.655,D,2071135,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,18753,1164.836,D,2052382,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,21383,1165.92,D,2030999,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,25710,1166.983,D,2005289,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,19428,1167.997,D,1985861,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,22061,1169.154,D,1963800,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,19600,1170.486,D,1944200,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,13786,1171.637,D,1930414,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,11540,1172.526,D,1918874,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,10002,1173.558,D,1908872,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,5559,1174.611,D,1903313,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-08,S,6020,1175.654,D,1897293,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,13383,1163.733,D,1331678,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7400,1164.98,D,1324278,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,7224,1166.014,D,1317054,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,12244,1167.181,D,1304810,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,1605,1167.922,D,1303205,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4419,1169.462,D,1298786,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,10667,1170.783,D,1288119,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,14377,1171.946,D,1273742,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,13112,1172.921,D,1260630,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,15713,1173.926,D,1244917,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4258,1175.01,D,1240659,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4930,1175.688,D,1235729,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,4200,1177.09,D,1231529,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,11139,1178.09,D,1220390,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-23,S,1800,1179.083,D,1218590,D,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-03-02,J,46,0,A,20681396,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,35693,887.905,D,160649830,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,29066,888.684,D,160620764,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,35107,889.813,D,160585657,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,15170,891.09,D,160570487,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,59667,891.817,D,160510820,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,20628,892.749,D,160490192,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,6152,893.812,D,160484040,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,17717,895.062,D,160466323,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,42430,895.754,D,160423893,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,30343,896.733,D,160393550,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,38790,897.945,D,160354760,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,60728,898.942,D,160294032,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,64783,899.85,D,160229249,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,44887,900.931,D,160184362,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,48949,901.888,D,160135413,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,95114,902.762,D,160040299,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,96047,903.898,D,159944252,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,134384,904.826,D,159809868,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,58886,905.823,D,159750982,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,10078,906.885,D,159740904,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,12276,908.088,D,159728628,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,38973,908.819,D,159689655,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,1871,909.758,D,159687784,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,14433,911.177,D,159673351,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-05,S,10100,911.752,D,159663251,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,M,2134440,6.24,A,2134440,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,9400,952.835,D,2125040,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,23831,953.954,D,2101209,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,12534,954.861,D,2088675,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,21512,956.034,D,2067163,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,7863,956.931,D,2059300,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,9175,958.258,D,2050125,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,33660,959.31,D,2016465,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,53011,960.229,D,1963454,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,51757,961.199,D,1911697,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,45421,962.21,D,1866276,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,45354,963.236,D,1820922,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,23110,964.149,D,1797812,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,40661,965.362,D,1757151,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,69035,966.182,D,1688116,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,79415,967.265,D,1608701,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,51422,968.206,D,1557279,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,25804,969.218,D,1531475,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,27905,970.273,D,1503570,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,14382,971.254,D,1489188,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,24031,972.278,D,1465157,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,7195,973.236,D,1457962,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,10215,974.363,D,1447747,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,5399,975.416,D,1442348,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,21752,976.55,D,1420596,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,14370,977.404,D,1406226,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,11618,978.448,D,1394608,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,2866,979.519,D,1391742,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,6000,980.804,D,1385742,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,16282,981.756,D,1369460,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,435,872.469,D,155058484,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,13292,874.286,D,155045192,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-08-09,S,6048,876.629,D,155039144,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2019-05-20,M,175000,31.17,A,34102560,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2016-11-21,D,21845674,"
+                    <footnoteId id=""F1""/>
+                ",D,0,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,24449,1039.699,D,3053205,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,25915,1040.56,D,3027290,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,23935,1041.773,D,3003355,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,70823,1042.757,D,2932532,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,61399,1043.617,D,2871133,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,54998,1044.602,D,2816135,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,61830,1045.73,D,2754305,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,65423,1046.699,D,2688882,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,91429,1047.592,D,2597453,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,83687,1048.639,D,2513766,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,34034,1049.651,D,2479732,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,28303,1050.653,D,2451429,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,33108,1051.597,D,2418321,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,17290,1052.538,D,2401031,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,14994,1053.474,D,2386037,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,10033,1054.702,D,2376004,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,18066,1055.761,D,2357938,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-16,S,4687,1056.548,D,2353251,D,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2011-02-18,J,15969,0,A,25715565,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,6000,1020.534,D,167479682,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,9951,1021.458,D,167469731,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,62474,1022.611,D,167407257,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,82055,1023.451,D,167325202,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,83647,1024.427,D,167241555,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,94537,1025.485,D,167147018,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,66061,1026.477,D,167080957,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,61197,1027.598,D,167019760,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,106957,1028.473,D,166912803,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,101293,1029.49,D,166811510,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,90044,1030.515,D,166721466,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,59137,1031.523,D,166662329,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,46479,1032.459,D,166615850,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,106870,1033.428,D,166508980,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,45303,1034.493,D,166463677,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,26290,1035.561,D,166437387,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,39924,1036.411,D,166397463,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,28832,1037.55,D,166368631,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,32129,1038.432,D,166336502,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,28231,1039.533,D,166308271,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,10809,1040.40,D,166297462,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,7458,1041.676,D,166290004,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,3049,1042.541,D,166286955,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,801,1043.288,D,166286154,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-12,S,472,1044.751,D,166285682,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,7900,1010.59,D,1313876,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,15466,1011.504,D,1298410,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,18190,1012.587,D,1280220,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,11893,1013.40,D,1268327,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,16465,1014.492,D,1251862,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,9510,1015.693,D,1242352,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,9845,1016.802,D,1232507,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,24868,1017.579,D,1207639,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,9500,1018.674,D,1198139,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,8027,1019.722,D,1190112,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,6000,1020.892,D,1184112,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,3800,1021.843,D,1180312,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,3731,1022.899,D,1176581,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,1400,1023.818,D,1175181,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,300,1026.25,D,1174881,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,300,1027.867,D,1174581,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,700,1028.934,D,1173881,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-15,S,300,1031.00,D,1173581,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,M,2151940,6.24,A,2151940,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,5100,923.909,D,2146840,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,8165,925.688,D,2138675,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,32277,926.543,D,2106398,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,30074,927.578,D,2076324,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,17990,928.572,D,2058334,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,12749,929.50,D,2045585,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,13600,930.623,D,2031985,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,24453,931.734,D,2007532,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,77620,932.637,D,1929912,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,64997,933.566,D,1864915,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,50633,934.612,D,1814282,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,37724,935.545,D,1776558,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,44538,936.639,D,1732020,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,42201,937.639,D,1689819,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,39538,938.57,D,1650281,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,18809,939.555,D,1631472,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,17275,940.764,D,1614197,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,17588,941.595,D,1596609,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,17842,942.528,D,1578767,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,6279,943.549,D,1572488,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,7235,945.599,D,1565253,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,3821,946.60,D,1561432,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,12369,947.893,D,1549063,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,8783,948.804,D,1540280,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,10785,950.061,D,1529495,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,2053,951.067,D,1527442,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,1367,952.036,D,1526075,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,3713,953.955,D,1522362,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-16,S,9299,956.625,D,1513063,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2019-12-16,G,17000,0.0,D,34085560,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,16975,982.884,D,1352485,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,6913,984.034,D,1345572,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,3176,984.881,D,1342396,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,11069,986.672,D,1331327,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,3511,987.912,D,1327816,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,13112,989.033,D,1314704,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,12011,989.775,D,1302693,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,9009,991.138,D,1293684,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,8624,992.037,D,1285060,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,1400,992.91,D,1283660,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,23642,994.554,D,1260018,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,8916,995.49,D,1251102,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,14802,996.649,D,1236300,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,7885,997.575,D,1228415,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,11725,998.811,D,1216690,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,6970,999.678,D,1209720,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,8224,1001.061,D,1201496,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-13,S,1147,1002.064,D,1200349,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2019-05-02,P,102880,243.0,A,33927560,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-03-11,J,43,0,A,20681439,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2011-06-08,P,1416000,28.76,A,27131565,I,by Trust
+nonDerivative,"Endeavor Group Holdings, Inc.",Class A Common Stock,2022-06-13,M,7583,0.00,A,7583,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,773531,197.196,D,454693901,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,151958,197.983,D,454541943,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,1747633,199.452,D,452794310,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,1047768,200.305,D,451746542,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,318902,201.542,D,451427640,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,513373,202.431,D,450914267,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,383525,203.475,D,450530742,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,239491,204.629,D,450291251,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,52445,205.333,D,450238806,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,42932,206.433,D,450195874,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,20459,207.957,D,450175415,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-07,S,157983,208.731,D,450017432,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-06-12,J,43,0,A,20681528,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-12-14,J,51,0,A,21112328,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,17202,992.688,D,2902269,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,18767,993.643,D,2883502,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,22088,994.713,D,2861414,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,39967,995.601,D,2821447,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,28524,996.545,D,2792923,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,30599,997.605,D,2762324,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,29480,998.791,D,2732844,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,29700,999.625,D,2703144,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,27870,1000.669,D,2675274,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,12498,1001.64,D,2662776,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,32153,1002.697,D,2630623,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,55350,1003.736,D,2575273,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,48446,1004.776,D,2526827,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,49439,1005.747,D,2477388,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,44648,1006.795,D,2432740,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,23122,1007.689,D,2409618,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,37729,1008.804,D,2371889,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,18058,1009.786,D,2353831,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,18710,1010.809,D,2335121,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,5300,1011.629,D,2329821,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,2300,1012.584,D,2327521,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,700,1013.997,D,2326821,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-22,S,877,1014.939,D,2325944,D,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-05-19,M,2147986.0,6.63,A,31727328,I,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-05-19,M,3355986.0,6.63,A,35083314,I,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-05-19,G,1200000.0,0.0,D,33883314,I,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-02-08,M,676000.0,6.63,A,29579342,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,22488,1042.544,D,169888140,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,38104,1043.379,D,169850036,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,16144,1044.486,D,169833892,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,51495,1045.387,D,169782397,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24880,1046.477,D,169757517,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,68892,1047.613,D,169688625,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,12538,1048.523,D,169676087,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,23125,1049.525,D,169652962,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,65339,1050.284,D,169587623,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,47553,1051.424,D,169540070,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,38295,1052.61,D,169501775,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,50707,1053.436,D,169451068,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,45060,1054.421,D,169406008,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,47448,1055.475,D,169358560,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,27253,1056.354,D,169331307,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,51600,1057.412,D,169279707,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24840,1058.347,D,169254867,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,53080,1059.421,D,169201787,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,15399,1060.328,D,169186388,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,10595,1062.048,D,169175793,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,30225,1062.898,D,169145568,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,15010,1064.035,D,169130558,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,26031,1065.01,D,169104527,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,13227,1065.867,D,169091300,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,34108,1066.909,D,169057192,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,4139,1068.063,D,169053053,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,24422,1069.075,D,169028631,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,22166,1070.055,D,169006465,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,14251,1070.987,D,168992214,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-11-09,S,33797,1072.287,D,168958417,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,485578,203.673,D,464631854,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,998114,204.60,D,463633740,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,1091614,205.596,D,462542126,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,2686528,206.673,D,459855598,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,997104,207.361,D,458858494,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,148678,208.426,D,458709816,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,91943,209.882,D,458617873,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,944828,210.757,D,457673045,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,663677,211.41,D,457009368,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,307416,212.491,D,456701952,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,137877,213.528,D,456564075,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,222303,214.856,D,456341772,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,93045,215.611,D,456248727,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,90493,216.633,D,456158234,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,196661,217.70,D,455961573,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,249580,219.215,D,455711993,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-04,S,244561,219.909,D,455467432,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2016-02-12,P,569680,17.5559,A,21845674,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-06-19,J,51,0,A,21044197,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,20702,917.403,D,1484642,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,20162,918.568,D,1464480,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,12637,919.456,D,1451843,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,11921,920.672,D,1439922,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,1900,921.249,D,1438022,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,2300,923.204,D,1435722,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,1358,924.118,D,1434364,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,700,925.866,D,1433664,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,10120,927.468,D,1423544,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,21302,928.487,D,1402242,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,23470,929.297,D,1378772,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,34060,930.308,D,1344712,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,45211,931.455,D,1299501,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,46513,932.311,D,1252988,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,32667,933.375,D,1220321,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,34617,934.466,D,1185704,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,18230,935.23,D,1167474,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,5974,936.222,D,1161500,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,6617,937.422,D,1154883,D,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,19,939.04,D,1154864,D,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-11-12,P,83955,25.2025,A,20889080,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-11-13,P,223197,25.4044,A,21112277,I,By Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2014-07-15,J,51,0,A,21044248,I,By Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2016-01-27,M,532000.0,6.63,A,28903342,I,by Trust
+nonDerivative,SOLARCITY CORP,Common Stock,2015-09-08,J,43,0,A,20805125,I,By Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,M,2088955,6.24,A,2088955,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,3400,886.69,D,2085555,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,1900,888.313,D,2083655,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,5948,889.422,D,2077707,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,5778,890.495,D,2071929,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,6753,891.921,D,2065176,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,10400,892.81,D,2054776,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,16465,893.659,D,2038311,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,24576,894.789,D,2013735,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,29398,895.785,D,1984337,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,21159,896.683,D,1963178,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,20375,898.026,D,1942803,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,25788,898.861,D,1917015,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,12728,899.925,D,1904287,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,5010,900.894,D,1899277,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,17867,902.01,D,1881410,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,9288,903.207,D,1872122,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,25892,904.195,D,1846230,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,39829,905.311,D,1806401,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,51795,906.163,D,1754606,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,28220,907.167,D,1726386,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,36980,908.312,D,1689406,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,33686,909.158,D,1655720,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,10207,910.132,D,1645513,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,31816,911.262,D,1613697,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,12413,912.371,D,1601284,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,16605,913.323,D,1584679,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,27587,914.404,D,1557092,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,33364,915.39,D,1523728,D,
+nonDerivative,"Tesla, Inc.",Common Stock,2021-12-21,S,18384,916.519,D,1505344,D,
+nonDerivative,TESLA MOTORS INC,Common Stock,2013-12-09,A,75.0,0.0,A,75,D,by Trust
+nonDerivative,TESLA MOTORS INC,Common Stock,2013-05-30,P,1084129,92.24,A,28287366,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,192320,189.578,D,449825112,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,366242,190.45,D,449458870,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,3107623,191.467,D,446351247,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,376134,192.204,D,445975113,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,78604,193.339,D,445896509,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,198124,194.975,D,445698385,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,67609,195.148,D,445630776,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,8575,196.849,D,445622201,I,by Trust
+nonDerivative,"Tesla, Inc.",Common Stock,2022-11-08,S,4769,197.70,D,445617432,I,by Trust

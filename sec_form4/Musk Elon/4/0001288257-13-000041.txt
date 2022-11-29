@@ -1,0 +1,152 @@
+<SEC-DOCUMENT>0001288257-13-000041.txt : 20131022
+<SEC-HEADER>0001288257-13-000041.hdr.sgml : 20131022
+<ACCEPTANCE-DATETIME>20131022165941
+ACCESSION NUMBER:		0001288257-13-000041
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20131021
+FILED AS OF DATE:		20131022
+DATE AS OF CHANGE:		20131022
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLARCITY CORP
+		CENTRAL INDEX KEY:			0001408356
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		IRS NUMBER:				020781046
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+		BUSINESS PHONE:		650-638-1028
+
+	MAIL ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35758
+		FILM NUMBER:		131164136
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-10-21</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001408356</issuerCik>
+        <issuerName>SOLARCITY CORP</issuerName>
+        <issuerTradingSymbol>SCTY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O SOLARCITY CORPORATION</rptOwnerStreet1>
+            <rptOwnerStreet2>3055 CLEARVIEW WAY</rptOwnerStreet2>
+            <rptOwnerCity>SAN MATEO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-10-21</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2013-10-21</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>214869</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>46.54</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>21028830</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <ownerSignature>
+        <signatureName>Seth R. Weissman, Atty-in-Fact for Elon Musk</signatureName>
+        <signatureDate>2013-10-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

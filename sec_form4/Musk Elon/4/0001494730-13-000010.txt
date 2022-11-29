@@ -1,0 +1,167 @@
+<SEC-DOCUMENT>0001494730-13-000010.txt : 20131211
+<SEC-HEADER>0001494730-13-000010.hdr.sgml : 20131211
+<ACCEPTANCE-DATETIME>20131211141337
+ACCESSION NUMBER:		0001494730-13-000010
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20131209
+FILED AS OF DATE:		20131211
+DATE AS OF CHANGE:		20131211
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TESLA MOTORS INC
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		131270545
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2013-12-09</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001318605</issuerCik>
+        <issuerName>TESLA MOTORS INC</issuerName>
+        <issuerTradingSymbol>TSLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3500 DEER CREEK ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94304</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2013-12-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75.0</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>75</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>28288622</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Restricted Stock Units will vest 100% on December 5, 2014.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Elon R. Musk</signatureName>
+        <signatureDate>2013-12-10</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,162 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RNLPbdyKXv/zEtNBMw5BH1+WNaODI/EiGM5oXxKlU3nqFZPQm8QuozDEw1qoYB1q
+ uFMVWgUUgXrr0jFvSvXPRw==
+
+<SEC-DOCUMENT>0001494730-11-000004.txt : 20110223
+<SEC-HEADER>0001494730-11-000004.hdr.sgml : 20110223
+<ACCEPTANCE-DATETIME>20110223192047
+ACCESSION NUMBER:		0001494730-11-000004
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20110218
+FILED AS OF DATE:		20110223
+DATE AS OF CHANGE:		20110223
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		11633678
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TESLA MOTORS INC
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgardoc.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0303</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2011-02-18</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001318605</issuerCik>
+        <issuerName>TESLA MOTORS INC</issuerName>
+        <issuerTradingSymbol>TSLA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3500 DEER CREEK ROAD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94304</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>CEO</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2011-02-18</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>15969</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25715565</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>by Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares acquired upon distribution from Valor Equity Partners II, LP.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>Elon Musk</signatureName>
+        <signatureDate>2011-02-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001408356-15-000043.txt : 20150518
+<SEC-HEADER>0001408356-15-000043.hdr.sgml : 20150518
+<ACCEPTANCE-DATETIME>20150518164413
+ACCESSION NUMBER:		0001408356-15-000043
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20150515
+FILED AS OF DATE:		20150518
+DATE AS OF CHANGE:		20150518
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLARCITY CORP
+		CENTRAL INDEX KEY:			0001408356
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		IRS NUMBER:				020781046
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+		BUSINESS PHONE:		650-638-1028
+
+	MAIL ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35758
+		FILM NUMBER:		15873751
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2015-05-15</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001408356</issuerCik>
+        <issuerName>SOLARCITY CORP</issuerName>
+        <issuerTradingSymbol>SCTY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3055 CLEARVIEW WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN MATEO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>62.51</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2015-05-15</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2015-05-15</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <value>2015-07-02</value>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2025-05-15</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>30000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">1/36 of the shares subject to the option shall vest each month following the Issuer's 2015 annual shareholder meeting (to be held on June 2, 2015), provided the reporting person continues to be a director of the Issuer as of each vest date.  Any unvested shares shall vest in full upon termination of the reporting person as a director of the Issuer in connection with Change in Control.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Seth R. Weissman as Atty-In-Fact for Elon Musk</signatureName>
+        <signatureDate>2015-05-18</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

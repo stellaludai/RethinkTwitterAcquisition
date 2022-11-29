@@ -1,0 +1,253 @@
+<SEC-DOCUMENT>0001408356-16-000172.txt : 20161123
+<SEC-HEADER>0001408356-16-000172.hdr.sgml : 20161123
+<ACCEPTANCE-DATETIME>20161123162750
+ACCESSION NUMBER:		0001408356-16-000172
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20161121
+FILED AS OF DATE:		20161123
+DATE AS OF CHANGE:		20161123
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLARCITY CORP
+		CENTRAL INDEX KEY:			0001408356
+		STANDARD INDUSTRIAL CLASSIFICATION:	CONSTRUCTION SPECIAL TRADE CONTRACTORS [1700]
+		IRS NUMBER:				020781046
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+		BUSINESS PHONE:		650-638-1028
+
+	MAIL ADDRESS:	
+		STREET 1:		3055 CLEARVIEW WAY
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94402
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Musk Elon
+		CENTRAL INDEX KEY:			0001494730
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35758
+		FILM NUMBER:		162016945
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TESLA MOTORS, INC.
+		STREET 2:		3500 DEER CREEK ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>edgar.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-11-21</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001408356</issuerCik>
+        <issuerName>SOLARCITY CORP</issuerName>
+        <issuerTradingSymbol>SCTY</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001494730</rptOwnerCik>
+            <rptOwnerName>Musk Elon</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3055 CLEARVIEW WAY</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SAN MATEO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94402</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-11-21</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2016-11-21</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>21845674</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Option to Purchase Common Stock</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>62.51</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2016-11-21</value>
+            </transactionDate>
+            <deemedExecutionDate>
+                <value>2016-11-21</value>
+            </deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>D</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>30000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>30000</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value></value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Zero Coupon Convertible Senior Notes due 2020</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>33.00</value>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <value>2015-12-07</value>
+            </exerciseDate>
+            <expirationDate>
+                <value>2020-12-01</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityValue>
+                    <value>10000000.00</value>
+                </underlyingSecurityValue>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                    <footnoteId id="F3"/>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Outstanding shares of the common stock of the Issuer were converted into the right to receive 0.110 shares of Tesla common stock for each share of the Issuer's common stock issued and outstanding, with cash paid in lieu of fractional shares, in accordance with the Merger Agreement.</footnote>
+        <footnote id="F2">Outstanding stock options and restricted stock unit awards (&quot;RSUs&quot;) of the Issuer were assumed by Tesla and automatically converted into corresponding equity incentive awards on common stock of Tesla in accordance with the Merger Agreement.</footnote>
+        <footnote id="F3">The Zero Coupon Convertible Senior Notes due 2020 have been adjusted to become convertible into shares of Tesla common stock.</footnote>
+    </footnotes>
+
+    <remarks>This Form 4 reports securities disposed pursuant to the terms of an Agreement and Plan of Merger (the &quot;Merger Agreement&quot;), dated as of July 31, 2016, a copy of which is filed as Exhibit 2.1 to the Issuer's Form 8-K filed with the SEC on August 1, 2016, and by which the Issuer became a wholly-owned subsidiary (the &quot;Merger&quot;) of Tesla Motors, Inc. (&quot;Tesla&quot;).</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Seth R. Weissman as Atty-In-Fact for Elon Musk</signatureName>
+        <signatureDate>2016-11-23</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
